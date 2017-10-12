@@ -4,7 +4,7 @@ A simple guest book using Node, Express, BootStrap, EJS
 
 ## How to use
 
-Open a command window in your c:\44563\m07 folder.
+Open a command window in your c:\44563\W07 folder.
 
 Run npm install to install all the dependencies in the package.json file.
 
